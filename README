@@ -18,3 +18,5 @@ rhino.js is a sample companion script to run fulljslint.js on Rhino.
 wsh.js is a sample companion script to run fulljslint.js on WSH.
 
 lint.html describes JSLint's usage.
+
+node-lint.js is a companion script to run fulljslint.js on NodeJS.
